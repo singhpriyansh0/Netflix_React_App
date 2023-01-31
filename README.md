@@ -1,4 +1,4 @@
-# for getting movies images crete API key by visiting TMDB website
+# for getting movies create API key by visiting TMDB website
 # and copy that API key on file name "App.js" in place where "API KEY" is written
 # Getting Started with Create React App
 
